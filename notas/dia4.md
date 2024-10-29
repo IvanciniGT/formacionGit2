@@ -75,3 +75,11 @@ $ git push origin v1.0.0
 $ git push origin --tags
 $ git push v1.0.0
 $ git push --tags
+
+
+
+git push
+git fetch
+git pull = git fetch + [ git merge --ff-only | git merge --no-ff | git rebase ]
+git clone
+git remote add origin URL
