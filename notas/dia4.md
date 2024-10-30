@@ -83,3 +83,13 @@ git fetch
 git pull = git fetch + [ git merge --ff-only | git merge --no-ff | git rebase ]
 git clone
 git remote add origin URL
+
+
+---
+
+
+stash
+notes
+
+PULL REQUEST | MERGE REQUEST
+Protected branches
