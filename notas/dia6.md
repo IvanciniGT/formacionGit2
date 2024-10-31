@@ -128,8 +128,8 @@ ME SIRVE PARA CONTROLAR DEPENDENCIAS
 
     proyectopadre2/
         codigo/
-        modulo1/            <- REPO DE GIT, con su remoto vinculado
-        modulo3/            <- REPO DE GIT, con su remoto vinculado
+        modulo1/            <- REPO DE GIT(COMMIT|TAG), con su remoto vinculado
+        modulo3/            <- REPO DE GIT(COMMIT|TAG), con su remoto vinculado
 
 Esto me permite hacer clone solo de un modulo... si solo quiero trabajar en ello.
 O hago el clone del proyecto complejo... un cone especial: git clone --recurse-submodules
