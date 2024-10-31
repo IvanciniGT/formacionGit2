@@ -97,7 +97,7 @@ $ git fetch origin refs/notes/*
 
 ---
 
-# Servicios de lojamiento de repos remotos: GITLAB, GITHUB, BITBUCKET
+# Servicios de alojamiento de repos remotos: GITLAB, GITHUB, BITBUCKET
 
 GITHUB: Como SaaS
 GITLAB: Como SaaS y OnPremise

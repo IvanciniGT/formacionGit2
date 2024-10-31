@@ -1,0 +1,3 @@
+[submodule "miSubmodulo1"]
+	path = miSubmodulo1
+	url = https://github.com/IvanciniGT/pruebaFormacionGit
